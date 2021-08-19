@@ -23,13 +23,14 @@ $ npm run start:prod
 
 ## Before doing testing added some database entries like this
 ```
-```
-
-## Test
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (1,'FORTNIGHTLY',555,'Asia/Colombo','2020-03-28 11:36:46','2020-05-27 11:36:46');
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (2,'WEEKLY',555,'Asia/Colombo','2020-03-28 11:36:46','2020-05-27 11:36:46');
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (3,'MONTHLY',555,'Asia/Colombo','2020-03-28 11:36:46','2020-05-27 11:36:46');
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (4,'MONTHLY',555,'Asia/Colombo','2020-01-31 11:36:46','2020-05-27 11:36:46');
+```
+
+## Test
+
 ```bash
 
 # e2e tests
