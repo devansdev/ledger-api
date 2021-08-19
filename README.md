@@ -28,6 +28,9 @@ INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (3,'MONTHLY',555,'Asia/Colombo','2020-03-28 11:36:46','2020-05-27 11:36:46');
 INSERT INTO `` (`id`,`frequency`,`weekly_rent`,`timezone`,`start_date`,`end_date`) VALUES (4,'MONTHLY',555,'Asia/Colombo','2020-01-31 11:36:46','2020-05-27 11:36:46');
 ```
+## API Documnetation 
+
+<a href="http://localhost:3010/documentation/">http://localhost:3010/documentation/</a>
 
 ## Test
 
